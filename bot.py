@@ -1191,8 +1191,6 @@ if __name__ == "__main__":
     else:
         bot.run(BOT_TOKEN)
 
-"
-
 # Global variables to store message info
 keys_message_id = None
 keys_channel_id = None
